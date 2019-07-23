@@ -49,6 +49,7 @@ def reduce_to_total(source_array, starting_point = 0)
     i += 1 
   end
   return starting_point
+<<<<<<< HEAD
 end
 
 
@@ -62,3 +63,6 @@ def reduce_to_all_true(source_array)
     end
   end
 end
+=======
+end
+>>>>>>> e1d7309be0843a51595b3a7a43d202fb55d85d59
